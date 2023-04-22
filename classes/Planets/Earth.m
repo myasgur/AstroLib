@@ -1,0 +1,8 @@
+classdef Earth < Body
+
+
+
+
+
+
+end
